@@ -2,6 +2,7 @@ hey!
 thanks for downloading my stuff
 this is just a crappy project i made with python
 you MUSTTTTTTTTTTT have python 3.13.2 installed for the opener to work
+also this is very unlikely to happen but if you got this by paying you got SCAMMED!!!! this project is free. forever. will always be free. i dont want money.
 instructions:
 
 1. MANDATORY: install python 3.13.2 (i wrote the script in python, and used pyinstaller to package it)
@@ -12,4 +13,5 @@ instructions:
 4.2. select "open with" and click "more" and scroll down
 4.3. click "open with another file"
 4.4. find where you installed the opener (usually your "Downloads" folder) and click that
+
 5. open the .mem file and it will launch tnm 6!
